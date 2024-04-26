@@ -10,7 +10,7 @@ This is a simple and elegant Tip Calculator web application designed with a pink
 
 ## Preview
 
-(https://niadavis.github.io/tip-calculator-js/)  <!-- Replace 'preview-link-here' with the URL of your screenshot -->
+(https://niadavis.github.io/tip-calculator-js/) 
 
 ## Built With
 
